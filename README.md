@@ -1,5 +1,5 @@
 Description: A text adventure game of python. You sail a ship on the ocean to go home. 
-You can employ sailors in the city and equip them with weapons and armors.
+You can employ sailors in the city and equip them with weapons and armors and they can level up after the fights.
 
 include files: marine_peril_1.2.py
 
